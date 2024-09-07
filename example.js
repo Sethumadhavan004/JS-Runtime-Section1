@@ -1,0 +1,1 @@
+Deno.core.print("Aloha World !!! (from example.js)\n")
